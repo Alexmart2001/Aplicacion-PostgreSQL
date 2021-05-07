@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edc17f0c-5e07-42b6-8f3a-47c17ddfa317" name="Default Changelist" comment="" />
+    <list default="true" id="edc17f0c-5e07-42b6-8f3a-47c17ddfa317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/usbbog/abd/postgresql_spring_boot/Prueba.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620355484023</updated>
-      <workItem from="1620355518940" duration="609000" />
+      <workItem from="1620355518940" duration="921000" />
     </task>
     <servers />
   </component>
